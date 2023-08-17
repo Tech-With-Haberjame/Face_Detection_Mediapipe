@@ -17,4 +17,4 @@ Make face detection by using framework Mediapipe
 - Setting Box thickness (3)
 
 # Button to quit program
-- press q
+- Press Q
