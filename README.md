@@ -1,7 +1,7 @@
 # Face_Detection_Mediapipe_Python
 Make face detection by using framework Mediapipe 
 
-#Contact
+# Contact
 - Author: Tech With Haberjame
 - GitHub: Tech-With-Haberjame
 - Tiktok: haberjame
@@ -12,7 +12,7 @@ Make face detection by using framework Mediapipe
 
 ![Untitled video](https://github.com/Tech-With-Haberjame/Face_Detection_Mediapipe/assets/135504212/870f88fc-135b-4e4c-ace8-c1511ee5d185)
 
-#Install This Library
+# Install This Library
 - pip install opencv-python
 - pip install mediapipe
 
