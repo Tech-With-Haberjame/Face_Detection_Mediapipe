@@ -16,7 +16,7 @@ Make face detection by using framework Mediapipe
 - pip install opencv-python
 - pip install mediapipe
 
-# Initial setting of  Face_Detection_Mediapipe_Python.py
+# Initial Setting of  Face_Detection_Mediapipe_Python.py
 - Setting Window Size (Width = 2560, Height = 1440)
 - Setiing Bounding box color B:G:R (0, 191, 255) 
 - Setting Bounding box thickness (3)
@@ -24,3 +24,6 @@ Make face detection by using framework Mediapipe
 # Button to quit program
 - Press Q
 
+# Credits Mediapipe
+- https://developers.google.com/mediapipe
+- https://github.com/google/mediapipe
