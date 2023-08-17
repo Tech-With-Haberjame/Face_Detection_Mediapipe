@@ -24,6 +24,6 @@ Make face detection by using framework Mediapipe
 # Button to quit program
 - Press Q
 
-# Credits Mediapipe
+# Resources
 - https://developers.google.com/mediapipe
 - https://github.com/google/mediapipe
